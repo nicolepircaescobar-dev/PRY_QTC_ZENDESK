@@ -1,1 +1,46 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_2Ms0gHylEfGImrSDzjGlpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ - tb_zte_deviceinfo",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DixBQHynEfGImrSDzjGlpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ - Auditoria",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_PaBGoHyoEfGImrSDzjGlpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PRY_QTC_ZENDESK:_2Ms0gHylEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PRY_QTC_ZENDESK:_DixBQHynEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]
