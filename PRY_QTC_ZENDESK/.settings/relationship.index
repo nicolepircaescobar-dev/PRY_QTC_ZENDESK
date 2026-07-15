@@ -42,5 +42,51 @@
     "id" : "PRY_QTC_ZENDESK:_DixBQHynEfGImrSDzjGlpQ",
     "version" : "Latest",
     "type" : "job"
+  }, {
+    "id" : "PRY_QTC_ZENDESK:_RhbhwIBbEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PRY_QTC_ZENDESK:_d3k_EIBbEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RhbhwIBbEfGImrSDzjGlpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_FcskkIBbEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FcskkIBbEfGImrSDzjGlpQ - tb_om_colocaciones",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_d3k_EIBbEfGImrSDzjGlpQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RMbcQHykEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pkf5MIBbEfGImrSDzjGlpQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pkf5MIBbEfGImrSDzjGlpQ - tb_udf_fcat_om_colocaciones_det",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
